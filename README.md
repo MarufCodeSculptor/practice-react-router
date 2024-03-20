@@ -1,3 +1,3 @@
-# Exploreed a litle bit of React Router 
+# Explored a litle bit of React Router 
 
 
